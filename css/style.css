@@ -867,6 +867,7 @@ img {
 .scroll-up-icon {
   font-size: 1.25rem;
   color: #fff;
+  padding: 2px;
 }
 
 .show-scroll {
